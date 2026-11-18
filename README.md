@@ -25,6 +25,3 @@ Visit [**KiwisIoT – https://www.kiwisiot.in/**](https://www.kiwisiot.in/) to e
 
 ---
 
-<p align="center">
-  <b>Powered by ESP32 | IoT | Home Automation | Connected with KiwisIoT</b>
-</p>
