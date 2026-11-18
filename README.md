@@ -9,6 +9,7 @@ Using the ESP32 microcontroller and connected sensors, the system monitors envir
 The collected sensor data is transmitted through Wi-Fi to the KiwisIoT platform, where users can monitor environmental conditions and window status through an online dashboard from anywhere.
 
 This project helps improve indoor comfort, supports automated ventilation, and demonstrates how IoT technology can make homes smarter, safer, and more convenient.
+
 Project Link:
 https://www.hackster.io/yuvansris2002/iot-based-smart-window-automation-using-esp32-with-kiwisiot-4d90a8
 
